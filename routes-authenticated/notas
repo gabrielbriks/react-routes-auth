@@ -1,0 +1,18 @@
+#Initial
+https://www.youtube.com/watch?v=sYe4r8WXGQg
+
+- Primeiramente vamos instalalar a seguinte dependencia:
+    Comand >> yarn add react-router-dom
+  Estaremos usando essa dependencia para construir as rotas.
+
+- Agora iremos deletar o os arquivos default que não iremos usar aqui.
+   * App.css
+   * App.js
+   * index.css
+   * logo.svg
+   * serviceWorker
+   * App.test.js
+   * setupTests.js
+
+- 
+  
